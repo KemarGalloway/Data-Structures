@@ -1,0 +1,4 @@
+﻿  driver.cpp
+c:\users\kemar_g\documents\visual studio 2013\projects\binarysearchtree\binarysearchtree\driver.cpp(55): warning C4805: '==' : unsafe mix of type 'int' and type 'bool' in operation
+c:\users\kemar_g\documents\visual studio 2013\projects\binarysearchtree\binarysearchtree\tree.h(139): warning C4715: 'Tree::searchTree' : not all control paths return a value
+  BinarySearchTree.vcxproj -> C:\Users\Kemar_G\Documents\Visual Studio 2013\Projects\BinarySearchTree\Debug\BinarySearchTree.exe

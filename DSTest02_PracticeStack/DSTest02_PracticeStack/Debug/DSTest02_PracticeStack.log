@@ -1,0 +1,3 @@
+﻿  Driver.cpp
+c:\users\kemar_g\documents\visual studio 2013\projects\dstest02_practicestack\dstest02_practicestack\stack.h(83): warning C4715: 'Stack::pop' : not all control paths return a value
+  DSTest02_PracticeStack.vcxproj -> c:\users\kemar_g\documents\visual studio 2013\Projects\DSTest02_PracticeStack\Debug\DSTest02_PracticeStack.exe

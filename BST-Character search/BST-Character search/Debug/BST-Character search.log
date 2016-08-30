@@ -1,0 +1,3 @@
+﻿  Driver.cpp
+c:\users\kemar_g\documents\visual studio 2013\projects\bst-character search\bst-character search\tree.h(141): warning C4715: 'Tree::searchTree' : not all control paths return a value
+  BST-Character search.vcxproj -> c:\users\kemar_g\documents\visual studio 2013\Projects\BST-Character search\Debug\BST-Character search.exe
